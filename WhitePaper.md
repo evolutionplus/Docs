@@ -37,11 +37,12 @@ The mechanics of the Evolution+ platform
 •	Referral system
 
 Game mechanics of Evolution+ allow us to account interests of all of the personality types according to the Bartle Test System.
-Personality type	| Key interests	| Control algorithms
-Killer	| Dominance and competition |	Status, leadership, competition.
-Explorer |	Learning and manipulation |	Game scenarios, game balance, hidden content.
-Socializer | Communication and Positive |	Social interaction, social rewards.
-Achiever | Possession and accumulation	| Virtual property, collecting.
+
+| Personality type	| Key interests	| Control algorithms |
+| Killer	| Dominance and competition |	Status, leadership, competition. |
+| Explorer |	Learning and manipulation |	Game scenarios, game balance, hidden content. |
+| Socializer | Communication and Positive |	Social interaction, social rewards. |
+| Achiever | Possession and accumulation	| Virtual property, collecting. |
 
 2.2. BLOCKCHAIN
 The use of blockchain technology in gamification ensures guaranteed possession of virtual property, and allows to include elements of cryptoeconomy to in-game mechanics.
