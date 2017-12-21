@@ -68,11 +68,11 @@ With the help of artificial intelligence the following tasks are achieved:
 - Selection of target groups for targeted campaigns
 - Formation of a psychological portrait of individual participants and the audience in general
 
-# 3. EPLUS TOKENS
+# 3. EVP TOKENS
 
-EPLUS Token is a utilitarian digital asset of Evolution+, which you can use to acquire license of the platform and services of company.
-EPLUS tokens are issued with limited emission. Maximum number: 22 000 000 tokens.
-The token rate for the period of the ICO: 1 EPLUS = 1 USD. After the ICO the rate will be determined by bidding on the exchange.
+EVP Token is a utilitarian digital asset of Evolution+, which you can use to acquire license of the platform and services of company.
+EVP tokens are issued with limited emission. Maximum number: 22 000 000 tokens.
+The token rate for the period of the ICO: 1 EVP = 1 USD. After the ICO the rate will be determined by bidding on the exchange.
 The number of the token determines the weight of holder's voice during public voting for changes to the platform.
 The token is not a share and does not give any rights to control the company Evolution+.
 
