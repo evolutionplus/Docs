@@ -254,30 +254,31 @@ trial implementations have been carried out, and business model is formed.  Deve
 basic functions for interaction with the Ethereum blockchain. 
 
 2015
-• hypotheses testing
-• start of development
+* hypotheses testing
+* start of development
 
 2016
-• first implementation
-• formation of concepts
-• functionality development
+* first implementation
+* formation of concepts
+* functionality development
 
 2017
-• business model formation
-• integration with Ethereum blockchain
-• cryptotoken emission
+* business model formation
+* integration with Ethereum blockchain
+* cryptotoken emission
 
 2018
-• release Artificial Intelligence
-• formation of the Evolution+ Ecosystem
-• preparation for entering worldwide markets
+* release Artificial Intelligence
+* formation of the Evolution+ Ecosystem
+* preparation for entering worldwide markets
 
 2019
-• access to the markets of Europe, Asia, USA
+* access to the markets of Europe, Asia, USA
 
 # 7. ABOUT THE AUTHOR
 
 Alex Black
+
 Founder of Evolution+
 
 Alex started programming at the age of 9 shortly after he began playing video games. He 
@@ -285,4 +286,5 @@ began to explore the idea of AI  at the age of 15. To date, he has 13 years of e
 software development for business systems. Over three years of experience in gamification.
 
 alexblack@evolution.plus
+
 fb.com/alexblack.evolution
