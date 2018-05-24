@@ -247,7 +247,7 @@ Most of expenses come from the following:
 * Hospitality expenses
 
 
-6. Roadmap
+# 6. Roadmap
 
 At the moment (Q1 2018), the beta version of the Platform has been launched. A number of 
 trial implementations have been carried out, and business model is formed.  Developed 
