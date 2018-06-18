@@ -2,13 +2,13 @@ PDF version: https://evolution.plus/EvolutionPlus_WP_eng.pdf
 
 # 1. INTRODUCTION 
 
-The number of gamers in the world exceeds 2 400 000 000 people to date. It is more than 30% of humanity. Video Game Industry have a significant impact on the mentality and culture of many countries. The world of ESports is growing rapidly. Blockbusters based on different  video  games  are  filmed.  Video  games  are  used  in  education,  military,  the development of Artificial Intelligence etc.
+The number of gamers in the world exceeds 2 400 000 000 people to date. It is more than 30% of humanity. Video Game Industry has a significant impact on the mentality and culture of many countries. The world of ESports is growing rapidly. Blockbusters based on different  video  games  are  filmed.  Video  games  are  used  in  education,  military,  the development of Artificial Intelligence and so on.
 
-Gamer generation, on average, spends more than 10 000 hours in video games to the start of their professional activity. During playtime, they acquire many useful skills and abilities: multitasking,  concentration,  fast  reaction  time,  diligence,  systems  thinking,  increased neuroplasticity, the ability to cooperation in online communities.
+Gamer generation, on the average, spends more than 10 000 hours in video games to the start of their professional activity. During playtime, they acquire many useful skills and abilities: multitasking,  concentration,  fast  reaction,  diligence,  systems  thinking,  increased neuroplasticity, the ability to cooperate in online communities.
 
-In addition, gamers easily learn the latest technologies. However, they ignore intrusive and uninteresting information. To date, the vast majority of people do not have the necessary degree  of  involvement  in  real  activity.  To  realize  their  potential  new  techniques  of motivation are required.
+In addition, gamers easily learn the latest technologies. However, they ignore intrusive and uninteresting information. For today, the vast majority of people do not have the necessary degree  of  involvement  in  real  activity.  To  realize  their  potential  new  techniques  of motivation are required.
 
-Evolution+  Team  has  been  developing  the  Platform  to  stimulate  activity  by  game mechanics. The Platform is integrated with Ethereum blockchain, which allows the use of cryptotokens  (ERC-20)  and  decentralized  virtual  property  (ERC-721).  Using  the  neural network allows to predict the behavior of participants based on the activity history.
+Evolution+  Team  has  been  developing  the  Platform  to  stimulate  activity  with  game mechanics. The Platform is integrated with Ethereum blockchain, which allows to use cryptotokens  (ERC-20)  and  decentralized  virtual  property  (ERC-721).  Using  the  neural network allows to predict the behavior of participants based on the activity history.
 
 In 2018 we plan to build the Ecosystem of the Platform, and to begin expansion into global markets. In 2019 Evolution+ is going to become a complete and recognizable solution for gamification in business, education and social management. In the future we will continue researching the field of algorithms for behavior management and Artificial Intelligence.
 
@@ -23,7 +23,7 @@ The Platform is a tool for organizations aimed at positive interaction with the 
 
 With the help of the blockchain participants are guaranteed the right of ownership of the awards. Integration with the Ethereum blockchain allows to increase user activity with cryptotokens and decentralized virtual property.
 
-Artificial Intelligence analyzes the history of user activity. On the basis of accumulated information AI predicts the behaviour and automatically selects target groups of users.
+Artificial Intelligence analyzes the history of user activity. Based on accumulated information AI predicts the behaviour and automatically selects target groups of users.
 
 A  set  of  tools  for  developers  allow  anyone  to  integrate  Evolution+  in  various IT-environments. 
 
@@ -87,13 +87,13 @@ The use of blockchain technology in gamification guarantees ownership of awards 
 * Decentralization of virtual property
 * Implementation of game mechanics based on smart-contracts
 
-Evolution+  Platform  is  integrated  with  Ethereum  blockchain  and  includes  established functions for automatic awarding users with cryptotokens for useful activities, such as: attracting new members, acquiring certain goods or services, performing tasks etc.
+Evolution+  Platform  is  integrated  with  Ethereum  blockchain  and  includes  established functions for automatic awarding users with cryptotokens for useful activities, such as attracting new members, acquiring certain goods or services, performing tasks etc.
 
 The Platform supports smart-contracts of ERC-20 and ERC-721 standards. The functionality of game balance adjustment allows taking into account the economic interests of all parties.
 
 ## 2.3. ARTIFICIAL INTELLIGENCE
 
-Platform's  Artificial  Intelligence  is  based  on  the  principle  of  stereotyped  patterns  of behaviour.    Neural  network  detects  patterns  of  behaviour  and  characteristics  of participants using different trigger actions and history of participant's activity. Artificial intelligence calculates the likelihood of participants making certain actions in the future, and automatically highlights the target groups.
+Platform's  Artificial  Intelligence  is  based  on  the  principle  of  stereotyped behaviour patterns.    Neural  network  detects  patterns  of  behaviour  and  characteristics  of participants using different trigger actions and history of participant's activity. Artificial intelligence calculates the likelihood of participants making certain actions in the future, and automatically highlights the target groups.
 
 **With the help of Artificial Intelligence, the following tasks are achieved:**
 
@@ -130,7 +130,7 @@ The daily activity of the staff is complemented by motivating game elements. It 
 
 Artificial Intelligence generates predictions of the behaviour of employees and identifies their potential to perform certain tasks.
 
-Evolution+ Platform integrates with IT environments: CRM, ERP, project management sys-tems, corporate messengers, enterprise portals, etc. The employees activity data are recorded automatically or by using the import tools.
+Evolution+ Platform integrates with IT environments: CRM, ERP, project management sys-tems, corporate messengers, enterprise portals, etc. Employees activity data is recorded automatically or by using the import tools.
 
 
 ## 3.2. SOCIAL RANKING
@@ -141,7 +141,7 @@ Society is experiencing an acute deficit of trust.
 
 ### SOLUTION
 
-With Evolution+ Platform personal rating is calculated, based on activity history. Quantity of rating  points  is  determined  by  such  things  as  socially  useful  activities,  professional achievements, education, violations and crimes, feedback etc. User's Social Ranking and his/hers level of privilege is determined by this data.
+With Evolution+ Platform personal rating is calculated, based on activity history. Quantity of rating  points  is  determined  by various factors such as socially  useful  activities,  professional achievements, education, violations and crimes, feedback etc. User's Social Ranking and his/her level of privilege is determined by this data.
 
 **Social rating performs the following tasks:**
 
@@ -184,7 +184,7 @@ Existing teaching methods are not effective for new generation.
 
 Gamification in education is an innovative educational technology that implements the process of learning in a game format. This technology allows to create a familiar online environment. The educational process is complemented with the game mechanics and elements of online social interaction.
 
-This  allows  to  excite  interest,  clearly  state  the  purpose,  chunk  big  goals  down  into achievable steps, and warm up motivation by awarding for right actions. Anticipation of the award  increases  dopamine  allocation,  which  contributes  to  the  effective  absorb  of information.
+This  allows  to  excite  interest,  clearly  state  the  purpose,  chunk  big  goals  down  into achievable steps, and warm up motivation by awarding for right actions. Anticipation of the award  increases  dopamine  allocation, which  leads  to  more  efficient  absorbing  of information.
 
 ## 3.5. GAMIFICATION OF WEB-SERVICES AND APPLICATIONS
 
@@ -216,17 +216,17 @@ Blockchain Platform: Ethereum<br>
 
 # 5. BUSINESS MODEL
 
-The Platform is presented as a cloud-based extension to various systems, allowing to increase user engagement through the use of game mechanics, blockchain and AI.
+The Platform is presented as a cloud-based extension to various systems, allowing to increase user engagement through usage of game mechanics, blockchain and AI.
 
 The cost of the license is determined by the number of actions that are logged in the Platform. It is more profitable to buy the license for EVP tokens.
 
-The main potencial clients:
+The main potential clients:
 
 * Retail
 * Social projects
 * Governments
 * Educational organizations
-* Client-oriented business
+* Client-oriented businesses
 
 Evolution+ receives most of its revenues from:
 
@@ -274,7 +274,18 @@ At the moment, the closed beta version of the Platform is launched. Several tria
 
 ### Founder of Evolution+
 
-Alex started programming at the age of 9 shortly after he began playing video games. He began to explore the idea of AI  at the age of 15. To date, he has 13 years of experience in software development for business systems. Over three years of experience in gamification.
+Alex started programming at the age of 9 shortly after he began playing video games. He began to explore the idea of AI  at the age of 15. Today, he has 13 years of experience in software development for business systems. Over three years of experience in gamification.
 
 alexblack@evolution.plus<br>
-fb.com/alexblack.evolution
+
+## Sergey Kuznetsov
+
+### Digital Marketing Executive
+
+Sergey has more than 7 years of experience in digital marketing. He was engaged in marketing in Canada and Latvia, as well as has significant experience in SEO promotion.
+
+## Valentin Bese
+
+### Sales representative in Germany
+
+Valentin  started  his  carrer  in  the  IT  section  2013  after  serving  in  German  army.  He appropriated  soft  skills  in  IT-Consulting  and  still  works  on  international  projects  in implementing software products in small and large companies.
